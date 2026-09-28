@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi EVERYONE !!👋
 
-<!--
-**Tanmay-Kumar-Verma/Tanmay-Kumar-Verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a 1st-year student at IIIT Vadodara, currently learning and exploring C programming, web development, and AI-based creative projects.1
 
-Here are some ideas to get you started:
+DoraTails 🎵 is a web app I built as a personal project around my AI music journey. The project is connected to my music presence on Instagram and YouTube, where I share AI-generated music and my official songs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository contains my work, experiments, and learning journey while building DoraTails. 🚀
+
+What I'm Learning
+
+C Programming
+
+Web Development
+
+Building and deploying web apps
+
+AI-generated music and creative projects
+
+Git & GitHub
+
+🎵 DoraTails is not just a project for me — it's a combination of my programming journey and my interest in creating music with AI.
+
+More improvements and features coming soon! ✨
